@@ -1,1 +1,2 @@
 # Python-Project
+Analyzed Aerofit treadmill data using Python to create detailed customer profiles and understand product preferences. Conducted descriptive analytics and probability analysis, generating actionable insights to optimize marketing strategies and improve customer recommendations. Utilized Python for data visualization and conditional probability calculations, enhancing Aerofit's overall business performance.
